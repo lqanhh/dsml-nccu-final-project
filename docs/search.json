@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "finalproject",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Our group for this final project has 3 people.\n\n\n\nVietnamese\nStudent at Université Grenoble Alpes - France (Major: Data Science)\nExchange student at NCCU <<<<<<< HEAD\nHobbies: playing sports and games\n\n\n\n\n\nSweden, Linköpings Universitet, Master in Business Administration\n23 years old from a small town called Växjö\nLove to travel, hang out with friends and work out\nHobbies: playing sports and games\n\n\n\n\n\nChinese - hometown: Chengdu\nStudent at ESSEC BUSINESS SCHOOL - France (Major: Business & Administration)\nExchange student at NCCU\nHobbies: climbing (buldering) , photography"
+  }
+]
