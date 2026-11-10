@@ -8,31 +8,30 @@ Our group for this final project has 3 people.
 
 ## Quynh Anh
 
-- Vietnamese
+-   Vietnamese
 
-- Student at Université Grenoble Alpes - France (Major: *Data Science*)
+-   Student at Université Grenoble Alpes - France (Major: *Data Science*)
 
-- Exchange student at NCCU
-<<<<<<< HEAD
+-   Exchange student at NCCU \<\<\<\<\<\<\< HEAD
 
-- Hobbies: playing sports and games
+-   Hobbies: playing sports and games
 
 ## Thea Johansson
 
-- Sweden, Linköpings Universitet, Master in Business Administration
+-   Sweden, Linköpings Universitet, Master in Business Administration
 
-- 23 years old from a small town called Växjö
+-   23 years old from a small town called Växjö
 
-- Love to travel, hang out with friends and work out 
+-   Love to travel, hang out with friends and work out
 
-- Hobbies: playing sports and games
+-   Hobbies: playing sports and games
 
 ## Chloé HE
 
-- Chinese - hometown: Chengdu
+-   Chinese - hometown: Chengdu
 
-- Student at ESSEC BUSINESS SCHOOL - France (Major: *Business & Administration*)
+-   Student at ESSEC BUSINESS SCHOOL - France (Major: *Business & Administration*)
 
-- Exchange student at NCCU
+-   Exchange student at NCCU
 
-- Hobbies: climbing (buldering) , photography
+-   Hobbies: climbing (buldering) , photography
