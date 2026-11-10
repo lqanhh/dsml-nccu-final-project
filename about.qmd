@@ -25,8 +25,6 @@ Our group for this final project has 3 people.
 
 - Love to travel, hang out with friends and work out 
 
-=======
-
 - Hobbies: playing sports and games
 
 ## Chloé HE
@@ -38,4 +36,3 @@ Our group for this final project has 3 people.
 - Exchange student at NCCU
 
 - Hobbies: climbing (buldering) , photography
->>>>>>> 2a57cb8 (Publish dashboard)
